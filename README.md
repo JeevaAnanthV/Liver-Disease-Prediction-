@@ -1,4 +1,4 @@
-# Liver-Disease-Prediction-
+# Liver-Disease-Prediction
 The "Liver Disease Prediction" project involves building a machine learning model to predict the likelihood of liver disease based on patient data. By analyzing key health indicators, the model aims to assist healthcare professionals in early detection and intervention.
 Project Overview:Liver disease is a global health concern, and early detection is crucial for effective treatment and management. The Liver Disease Prediction project aims to develop a predictive model using data science and machine learning techniques to identify individuals at risk of liver disease. This project will contribute to early diagnosis and intervention, potentially saving lives and reducing healthcare costs.
 Project Objectives:
